@@ -1,0 +1,1 @@
+([('main', '/Users/gznrf/Downloads/AuthApp_Client/dist/main', 'EXECUTABLE')],)

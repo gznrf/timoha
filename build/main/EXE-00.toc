@@ -1,5 +1,5 @@
 ('/Users/gznrf/Downloads/AuthApp_Client/dist/main',
- True,
+ False,
  False,
  False,
  None,
@@ -175,8 +175,8 @@
  [],
  False,
  False,
- 1773227905,
- [('run',
-   '/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/PyInstaller/bootloader/Darwin-64bit/run',
+ 1773229484,
+ [('runw',
+   '/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/PyInstaller/bootloader/Darwin-64bit/runw',
    'EXECUTABLE')],
  '/Library/Frameworks/Python.framework/Versions/3.13/Python')
